@@ -4,9 +4,15 @@ Changelog of Pull Request Notifier for Bitbucket.
 
 ## Unreleased
 ### No issue
+  doc
+  
+  [0decaa08edf237b](https://github.com/tomasbjerre/pull-request-notifier-for-bitbucket/commit/0decaa08edf237b) Tomas Bjerre *2016-05-09 16:09:48*
+
+## 2.18
+### No issue
   Using entire injection URL regexp as group when no grouping
   
-  [9522f3dbf758846](https://github.com/tomasbjerre/pull-request-notifier-for-bitbucket/commit/9522f3dbf758846) Tomas Bjerre *2016-05-09 15:59:09*
+  [63d51f7cff69fbc](https://github.com/tomasbjerre/pull-request-notifier-for-bitbucket/commit/63d51f7cff69fbc) Tomas Bjerre *2016-05-09 16:03:27*
 
 ## RC1
 ### GitHub [#109](https://github.com/tomasbjerre/pull-request-notifier-for-bitbucket/issues/109) Refactor admin pages
